@@ -5,10 +5,10 @@
 #include <SimpleTimer.h>
 #include <DHT.h>
 
-char auth[] = "1ee99bb5ccd14a2a8c9a72b0d1f0c48a"; //Enter the Auth code which was send by Blink
+char auth[] = "Blink_Auth_code"; //Enter the Auth code which was send by Blink
 
-char ssid[] = "TABİ_HOUSE";  //Enter your WIFI Name
-char pass[] = "mit104payizTSP.";  //Enter your WIFI Password
+char ssid[] = "WİFİ-NAME";  //Enter your WIFI Name
+char pass[] = "WİFİ-PASSWORD";  //Enter your WIFI Password
 //-------------------------------
 
 const int prob = A0;
