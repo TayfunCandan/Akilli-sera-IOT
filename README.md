@@ -20,3 +20,4 @@ Bir adet dht11 sensörü ile havanın sıcaklığını ölçüp mobil uygulama �
 Soil moisture (toprak nem sensörü) ile toprağın içerisindeki su miktarını ölçmeye yarayan bir sistem olup toprağın su ihtiyacını görmeyi de denedik. Bu sensörün çalışma mantığı iki iletken çubuk v şeklinde uçlarında birbirine elektrik gitme durumunda toprağın su ihtiyacı olup olmadığını bildiriyor. Bunu mobil uygulama üzerindeki gösterge ile sizlere bildirilmektedir.
 Led bizim için ışık görevinde görülmesi amaçlı kullanılmıştır. Bitkilerin ışık ihtiyacını karşılamak için kullanılmıştır. Mobil uygulama üzerinde buton ile açılıp kapanabilir. Butonun AÇIK halde olması durumunda ışık yanacaktır. Butonun KAPALI olması durumunda da ışık kapanacaktır.
 
+![Model](https://user-images.githubusercontent.com/45576892/143576627-9d7b1207-1236-4b9c-bc38-991b13abdfec.jpg)
